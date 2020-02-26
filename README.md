@@ -1,0 +1,2 @@
+# G-ncel
+Güncel scanner
